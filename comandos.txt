@@ -1,0 +1,14 @@
+Lista de comandos utilizados:
+git init: inicializa um repositório local na
+branch main
+
+git config user.name:altera o nome do usuário local do projeto
+git config user.email:altera o e-mail do usuário local do projeto
+git add <arquivo(s)>:adiciona os arquivos ao futuro commit
+git commit -m “<mensagem do commit>”:realiza um commit
+
+Comandos básicos (após criar o projeto no site):
+• git remote add origin-github <url do projeto>
+
+• git push -u origin-gitHub  main : envia o conteúdo da branch main para
+o repositório remoto.
